@@ -1,0 +1,218 @@
+
+*******************************************************************************
+Sat Nov  9 00:33:52 2019
+
+
+FIT:    data read from 'tcor_2000.dat'
+        format = z
+        x range restricted to [400.000 : *]
+        #datapoints = 1600
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x)=a1*x + b1
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1            b1           
+   0 2.6299101620e+09   0.00e+00  9.09e+02    1.000000e+00   1.000000e+00
+   6 3.1020668308e-01  -5.40e-08  9.09e-04    2.092185e-03   1.640838e+00
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.310207
+rel. change during last iteration : -5.40068e-13
+
+degrees of freedom    (FIT_NDF)                        : 1598
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0139328
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000194122
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 0.00209219       +/- 7.541e-07    (0.03605%)
+b1              = 1.64084          +/- 0.0009693    (0.05908%)
+
+correlation matrix of the fit parameters:
+                a1     b1     
+a1              1.000 
+b1             -0.933  1.000 
+
+
+*******************************************************************************
+Sat Nov  9 00:41:19 2019
+
+
+FIT:    data read from 'tcor_6000.dat'
+        format = z
+        x range restricted to [1000.00 : *]
+        #datapoints = 5000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x)=a1*x + b1
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1            b1           
+   0 2.3418322358e+03   0.00e+00  5.72e+00    2.092185e-03   1.640838e+00
+   3 2.0237192116e+02  -2.95e-06  5.72e-03    1.716143e-03   2.591706e+00
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 202.372
+rel. change during last iteration : -2.95443e-11
+
+degrees of freedom    (FIT_NDF)                        : 4998
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.201223
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0404906
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 0.00171614       +/- 1.972e-06    (0.1149%)
+b1              = 2.59171          +/- 0.007463     (0.288%)
+
+correlation matrix of the fit parameters:
+                a1     b1     
+a1              1.000 
+b1             -0.924  1.000 
+
+
+*******************************************************************************
+Sat Nov  9 00:49:11 2019
+
+
+FIT:    data read from 'tcor_8000.dat'
+        format = z
+        x range restricted to [1000.00 : *]
+        #datapoints = 7000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x)=a1*x + b1
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1            b1           
+   0 1.9811582984e+02   0.00e+00  6.26e+00    1.716143e-03   2.591706e+00
+   2 1.8985470674e+02  -4.64e-02  6.26e-02    1.720683e-03   2.538171e+00
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 189.855
+rel. change during last iteration : -4.64241e-07
+
+degrees of freedom    (FIT_NDF)                        : 6998
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.164711
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0271299
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 0.00172068       +/- 9.742e-07    (0.05662%)
+b1              = 2.53817          +/- 0.004805     (0.1893%)
+
+correlation matrix of the fit parameters:
+                a1     b1     
+a1              1.000 
+b1             -0.912  1.000 
+
+
+*******************************************************************************
+Sat Nov  9 01:11:19 2019
+
+
+FIT:    data read from 'pollen_tcor_600.dat'
+        format = z
+        #datapoints = 600
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x + b1
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1            b1           
+   0 1.0676264204e+11   0.00e+00  2.45e+02    1.000000e+00   1.000000e+00
+   5 2.3903692982e+08  -1.03e-05  2.45e-03    3.684641e+01   1.054424e+03
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.39037e+08
+rel. change during last iteration : -1.02873e-10
+
+degrees of freedom    (FIT_NDF)                        : 598
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 632.24
+variance of residuals (reduced chisquare) = WSSR/ndf   : 399727
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 36.8464          +/- 0.149        (0.4044%)
+b1              = 1054.42          +/- 51.56        (4.89%)
+
+correlation matrix of the fit parameters:
+                a1     b1     
+a1              1.000 
+b1             -0.866  1.000 
+
+
+*******************************************************************************
+Sat Nov  9 01:17:58 2019
+
+
+FIT:    data read from 'pollen_tcor_1000.dat'
+        format = z
+        #datapoints = 1000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x + b1
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1            b1           
+   0 6.5467465039e+08   0.00e+00  1.50e+04    3.684641e+01   1.054424e+03
+   3 6.4411341410e+08  -1.62e-02  1.50e+01    3.702455e+01   8.764674e+02
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 6.44113e+08
+rel. change during last iteration : -1.62101e-07
+
+degrees of freedom    (FIT_NDF)                        : 998
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 803.371
+variance of residuals (reduced chisquare) = WSSR/ndf   : 645404
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 37.0245          +/- 0.088        (0.2377%)
+b1              = 876.467          +/- 50.77        (5.793%)
+
+correlation matrix of the fit parameters:
+                a1     b1     
+a1              1.000 
+b1             -0.866  1.000 
+
+
+*******************************************************************************
+Sat Nov  9 01:19:22 2019
+
+
+FIT:    data read from 'pollen_tcor_2000.dat'
+        format = z
+        #datapoints = 2000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f1(x)
+	f1(x) = a1*x + b1
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a1            b1           
+   0 1.7824787746e+11   0.00e+00  3.02e+04    3.702455e+01   8.764674e+02
+   4 3.1048162847e+10  -8.16e-07  3.02e+00    4.836276e+01  -4.910975e+03
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3.10482e+10
+rel. change during last iteration : -8.15865e-12
+
+degrees of freedom    (FIT_NDF)                        : 1998
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3942.03
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.55396e+07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a1              = 48.3628          +/- 0.1527       (0.3157%)
+b1              = -4910.98         +/- 176.2        (3.588%)
+
+correlation matrix of the fit parameters:
+                a1     b1     
+a1              1.000 
+b1             -0.866  1.000 
