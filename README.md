@@ -1,5 +1,5 @@
 # LS-2102
-These are my submissions to the assignments on Computational Biophysics offered by IISER Kolkata as a part of the 3 credit second year laboratory course.
+These are my submissions to the assignments on Computational Biophysics offered by the Department of Biological Sciences(DBS) at IISER Kolkata as a part of the 3 credit second year laboratory course.
 
 We dealt with the following aspects-
 - Estimation of diffusion coefficient by single particle tracking
